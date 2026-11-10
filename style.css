@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f4f8;
+}
+
+/* Header */
+header {
+  background: #176b45;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+/* Map */
+#map {
+  height: 75vh;
+  width: 100%;
+}
+
+/* Coordinates */
+.info {
+  background: white;
+  padding: 15px;
+  text-align: center;
+}
+
+#coordinates {
+  font-weight: bold;
+  color: #176b45;
+}
+
+/* Footer */
+footer {
+  background: #176b45;
+  color: white;
+  text-align: center;
+  padding: 12px;
+}
